@@ -1,0 +1,846 @@
+[
+  {
+    "Name": "Ice Shards",
+    "ItemAffixes": [
+      {
+        "FileName": "cooldown reduction.png",
+        "Type": "helm"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "helm"
+      },
+      {
+        "FileName": "maximum life.png",
+        "Type": "helm"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "critical strike chance.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "lucky hit change.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "attack speed.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "ranks of tornato.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "maximum life.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "willpower.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "willpower.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "willpower.png",
+        "Type": "pants"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "pants"
+      },
+      {
+        "FileName": "maximum life.png",
+        "Type": "pants"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "pants"
+      },
+      {
+        "FileName": "movement speed.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "dodge chance.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "willpower.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "critical strike chance.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "critical strike damage.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "cooldown reduction.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "cost reduction.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "lucky hit change.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "vulnerable damage.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "critical strike chance.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "critical strike damage.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "damage to slowed enemies.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "damage to close enemies.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "cost reduction.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "critical strike damage.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "vulnerable damage.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "core skill damage.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "willpower.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "all stats.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "damage to close enemies.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "damage to distant enemies.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "cooldown reduction.png",
+        "Type": "offhand"
+      },
+      {
+        "FileName": "lucky hit change.png",
+        "Type": "offhand"
+      },
+      {
+        "FileName": "critical strike chance.png",
+        "Type": "offhand"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "offhand"
+      },
+      {
+        "FileName": "movement speed.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "maximum life.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "fortify generation.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "critical strike damage.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "damage to poisoned.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "damage to slowed enemies.png",
+        "Type": "weapon"
+      }
+    ],
+    "ItemAspects": []
+  },
+  {
+    "Name": "Twisting Blades",
+    "ItemAffixes": [
+      {
+        "FileName": "cooldown reduction.png",
+        "Type": "helm"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "helm"
+      },
+      {
+        "FileName": "maximum life.png",
+        "Type": "helm"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "critical strike chance.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "lucky hit change.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "attack speed.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "ranks of tornato.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "maximum life.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "willpower.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "willpower.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "willpower.png",
+        "Type": "pants"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "pants"
+      },
+      {
+        "FileName": "maximum life.png",
+        "Type": "pants"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "pants"
+      },
+      {
+        "FileName": "movement speed.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "dodge chance.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "willpower.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "critical strike chance.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "critical strike damage.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "cooldown reduction.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "cost reduction.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "lucky hit change.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "vulnerable damage.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "critical strike chance.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "critical strike damage.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "damage to slowed enemies.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "damage to close enemies.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "cost reduction.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "critical strike damage.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "vulnerable damage.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "core skill damage.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "willpower.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "all stats.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "damage to close enemies.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "damage to distant enemies.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "cooldown reduction.png",
+        "Type": "offhand"
+      },
+      {
+        "FileName": "lucky hit change.png",
+        "Type": "offhand"
+      },
+      {
+        "FileName": "critical strike chance.png",
+        "Type": "offhand"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "offhand"
+      },
+      {
+        "FileName": "movement speed.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "maximum life.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "fortify generation.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "critical strike damage.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "damage to poisoned.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "damage to slowed enemies.png",
+        "Type": "weapon"
+      }
+    ],
+    "ItemAspects": []
+  },
+  {
+    "Name": "WW - 2H Sword Bleed",
+    "ItemAffixes": [
+      {
+        "FileName": "cooldown reduction.png",
+        "Type": "helm"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "helm"
+      },
+      {
+        "FileName": "maximum life.png",
+        "Type": "helm"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "critical strike chance.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "lucky hit change.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "maximum life.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "pants"
+      },
+      {
+        "FileName": "maximum life.png",
+        "Type": "pants"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "pants"
+      },
+      {
+        "FileName": "movement speed.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "dodge chance.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "critical strike chance.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "critical strike damage.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "cooldown reduction.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "cost reduction.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "lucky hit change.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "vulnerable damage.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "critical strike chance.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "critical strike damage.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "cost reduction.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "critical strike damage.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "vulnerable damage.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "core skill damage.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "all stats.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "damage to close enemies.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "cooldown reduction.png",
+        "Type": "offhand"
+      },
+      {
+        "FileName": "lucky hit change.png",
+        "Type": "offhand"
+      },
+      {
+        "FileName": "critical strike chance.png",
+        "Type": "offhand"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "offhand"
+      },
+      {
+        "FileName": "movement speed.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "maximum life.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "fortify generation.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "critical strike damage.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "damage to poisoned.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "damage to slowed enemies.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "all stats.png",
+        "Type": "helm"
+      },
+      {
+        "FileName": "ranks of challenging shout.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "strength.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "strength.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "strength.png",
+        "Type": "pants"
+      },
+      {
+        "FileName": "strength.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "ranks of all defensive skills.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "rank of whirlwind.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "ranks of whirlwind.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "fury cost reduction.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "strength.png",
+        "Type": "weapon"
+      }
+    ],
+    "ItemAspects": []
+  },
+  {
+    "Name": "Werenado",
+    "ItemAffixes": [
+      {
+        "FileName": "cooldown reduction.png",
+        "Type": "helm"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "helm"
+      },
+      {
+        "FileName": "maximum life.png",
+        "Type": "helm"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "critical strike chance.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "lucky hit change.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "attack speed.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "ranks of tornato.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "maximum life.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "willpower.png",
+        "Type": "chest"
+      },
+      {
+        "FileName": "willpower.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "willpower.png",
+        "Type": "pants"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "pants"
+      },
+      {
+        "FileName": "maximum life.png",
+        "Type": "pants"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "pants"
+      },
+      {
+        "FileName": "movement speed.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "dodge chance.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "willpower.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "critical strike chance.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "critical strike damage.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "cooldown reduction.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "cost reduction.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "lucky hit change.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "vulnerable damage.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "critical strike chance.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "critical strike damage.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "damage to slowed enemies.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "damage to close enemies.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "cost reduction.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "total armor.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "critical strike damage.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "vulnerable damage.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "core skill damage.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "willpower.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "all stats.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "damage to close enemies.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "damage to distant enemies.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "cooldown reduction.png",
+        "Type": "offhand"
+      },
+      {
+        "FileName": "lucky hit change.png",
+        "Type": "offhand"
+      },
+      {
+        "FileName": "critical strike chance.png",
+        "Type": "offhand"
+      },
+      {
+        "FileName": "damage reduction.png",
+        "Type": "offhand"
+      },
+      {
+        "FileName": "movement speed.png",
+        "Type": "amulet"
+      },
+      {
+        "FileName": "maximum life.png",
+        "Type": "ring"
+      },
+      {
+        "FileName": "fortify generation.png",
+        "Type": "boots"
+      },
+      {
+        "FileName": "critical strike damage.png",
+        "Type": "gloves"
+      },
+      {
+        "FileName": "damage to poisoned.png",
+        "Type": "weapon"
+      },
+      {
+        "FileName": "damage to slowed enemies.png",
+        "Type": "weapon"
+      }
+    ],
+    "ItemAspects": []
+  }
+]
